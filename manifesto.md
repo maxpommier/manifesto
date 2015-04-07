@@ -13,7 +13,7 @@ our hearts steadfast in our intent
 `a hunger to understand`  
 `and an instinct to build`
 
-`why do we do what we do?
+why do we do what we do?
 
 because every one of our users is  
 a living, breathing human being  
@@ -48,10 +48,10 @@ a thousand times over
 for millions of human beings		
 
 with one purpose:  
-to be irrefutably essential  
-to our users, IBM and the world
+__to be irrefutably essential  
+to our users, IBM and the world__
 
 #we are ibm designers
 
-[^1]: what builds crappy products? apathy, hubris, willful ignorance
+[^1]: what builds crappy products? apathy, hubris, willful ignorance  
 [^2]: what builds great products? empathy, integrity, curiosity
