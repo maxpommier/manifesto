@@ -1,57 +1,65 @@
-#we are thinkers and doers
+We strive to deeply understand our users, their world, the tools they use, their hopes and fears. Together with our users, we can make a profound difference in the world.
+##We design to advance the human condition.
+---
+##We design with intent.
+//commander's intent  
+//regardless of the arbitrary constraints thrown at us 
 
-discoverers and explorers
+##We design with flexibility.
+// 
 
-we navigate the choppy seas  
-of ambiguity and uncertainty  
-in a joyful, fearless flurry
+##We design at scale
+We are part of this mind-bogglingly massive company whose products and services power the world—yet we think just as deeply about the micro details of our user's world.
 
-our minds are restlessly roving  
-our hands continuously crafting  
-our hearts steadfast in our intent
+##We design inclusively.
+Everyone is entitled to a great experience, regardless of their condition or abilities.
 
-`a hunger to understand`  
-`and an instinct to build`
+##We design collaboratively.
+Individually we are awesome, but infinitely better together. We believe in cross-disciplinary teams, in trust and respect, and in having fun.
 
-why do we do what we do?
+##We design with one purpose.
+To be essential to our users, IBM & the world.
 
-because every one of our users is  
-a living, breathing human being  
-with desires, dreams, fears, needs  
-who spends a quarter of their life  
-working with the products we build
+##We are IBM Designers.
 
-when we build crappy products				
-we create waste, frustration, anger [^1]
+---
 
-when we build great products				
-we create efficiency, productivity, delight [^2]
+##We are curious.
+//?
 
-we have the opportunity  
-through inclusive design  
-to change the lives of our users
+##We are problem-solvers.
+We can drink from a fire hose and scale tall buildings with a single bound—why? Because the world's needs are rapidly changing, and our users rely on us to help them into the future.
 
-and since we build the systems  
-that power the world  
-for 100 years and counting
+##We are continuously crafting.
 
-design at IBM is not  
-“a nice thing to have” or  
-“let’s make this look pretty”
+---
+`Adam+Phil comments`
 
-`design at IBM is`  
-`an irrefutable responsibility`
+	"What we stand for"
+	> We design with flexibility
+	"Bend like the reed"
+	We are continuously crafting
+	We create efficiency, productivity, and delight
+	Fail early & often
+	Celebrate the struggle
+	Designing within constraints (real world)
+	
+`Core Values of an IBM Designer`
 
-this is why
-we make and remake			
-a thousand times over		
-for millions of human beings		
+	Vulnerability: fail early, fail often
+	Flexibility: improvise, adapt
+	Humility: "I don't know, teach me"
+	Curiosity: Ask always
+	Conviction: Fight the good fight
+	Proportion: Maintain a healthy balance & sense of humor
+	> something on coming prepared with ideas + executing?
+	
+`Eunice`
 
-with one purpose:  
-__to be irrefutably essential  
-to our users, IBM and the world__
-
-#we are ibm designers
-
-[^1]: what builds crappy products? apathy, hubris, willful ignorance  
-[^2]: what builds great products? empathy, integrity, curiosity
+	Celebrate our evolving DNA
+	Embracing the changes we're going through
+	Need a clear sense of what we're doing / why we're here
+	Self-reflective nature
+	Milestone (birthday, new year's)
+	Reflect, celebrate, adapt
+	
